@@ -1,5 +1,6 @@
 # welcome!
 # About me
+:emojicode:
 
 ![me](http://octodex.github.com/images/femalecodertocat.png)
 
