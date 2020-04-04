@@ -13,3 +13,4 @@
 
 ![cat](http://octodex.github.com/images/maxtocat.gif)
 ![me2](http://octodex.github.com/images/Mardigrastocat.png)
+![cat2](http://octodex.github.com/images/snowoctocat.png)
