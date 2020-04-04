@@ -4,7 +4,8 @@
 # My favourite colour is
 + blue
 + pink
-+ love cats
+
+# love cats
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
