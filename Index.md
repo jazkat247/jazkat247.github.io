@@ -5,7 +5,7 @@
 + blue
 + pink
 
-# love cats
+# i love cats
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
