@@ -1,11 +1,11 @@
 # welcome!
 
-# About me (about)
+# About me 
 # My favourite colour is
 + blue
 + pink
++ love cats
 
-![baby sea turtle](https://img1.etsystatic.com/066/1/7093079/il_570xN.783622635_n9xk.jpg)
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
