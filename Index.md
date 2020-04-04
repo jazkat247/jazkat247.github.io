@@ -1,8 +1,6 @@
 # welcome!
 # About me
-:EMOJICODE:
-
-![me](http://octodex.github.com/images/femalecodertocat.png)
+:EMOJICODE:![me](http://octodex.github.com/images/femalecodertocat.png)
 
 # My favourite colours are:
 + blue
