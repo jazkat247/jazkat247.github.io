@@ -1,7 +1,7 @@
 # welcome!
 # About me
 
-![me](http://octodex.github.com/images/femalecodertocat.png)
+###![me](http://octodex.github.com/images/femalecodertocat.png)
 
 # My favourite colours are:
 + blue
