@@ -1,6 +1,6 @@
 # welcome!
 [welcome to my webpage]
-[# about me]
+# [About me]
 # My favourite colour
 + blue
 - blue
