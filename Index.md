@@ -1,6 +1,6 @@
 # welcome!
 
-# About me 
+#About
 # My favourite colour is
 + blue
 + pink
